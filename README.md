@@ -1,6 +1,6 @@
-# BiemTech Privacy Policies
+# BieMTech Privacy Policies
 
-Static privacy policy pages for BiemTech mobile applications, hosted on GitHub Pages.
+Static privacy policy pages for BieMTech mobile applications, hosted on GitHub Pages.
 
 🌐 **Live site:** https://biemtech.github.io/biemtech-privacy/
 
@@ -24,5 +24,5 @@ math-kids/
 
 ## Contact
 
-- App support: mathkids.support@gmail.com
-- Company: biemtech.co@gmail.com
+- App support: mathkids@biemtech.com
+- Company: info@biemtech.com
